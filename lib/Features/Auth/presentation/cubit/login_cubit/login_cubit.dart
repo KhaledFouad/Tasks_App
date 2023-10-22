@@ -12,10 +12,8 @@ class LoginCubit extends Cubit<LoginState> {
 
   final LoginRepository loginRepository;
 
-  TextEditingController emailController =
-      TextEditingController(text: "admin@admin.com");
-  TextEditingController passwordController =
-      TextEditingController(text: "password");
+  TextEditingController emailController = TextEditingController();
+  TextEditingController passwordController = TextEditingController();
   var formKey = GlobalKey<FormState>();
 
   static LoginCubit get(context) => BlocProvider.of(context);

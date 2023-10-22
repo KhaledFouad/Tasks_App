@@ -3,8 +3,8 @@ import 'package:tasks_app/core/utils/app_colors.dart';
 import 'package:tasks_app/core/utils/app_constants.dart';
 import 'package:tasks_app/core/widgets/tasks_list_view_item_body.dart';
 import 'package:tasks_app/core/widgets/tasks_list_view_item_head.dart';
+import 'package:tasks_app/features/home/data/models/tasks_model/datum.dart';
 
-import '../../../data/models/tasks_model/datum.dart';
 
 
 class TasksListViewItem extends StatelessWidget {
