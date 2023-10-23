@@ -54,11 +54,20 @@ dependencies:
   carousel_slider: ^4.2.1
   expandable_text: ^2.3.0
   top_snackbar_flutter: ^3.1.0
+  flutter_launcher_icons: ^0.13.1
+
 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+
+
+flutter_icons:  
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
