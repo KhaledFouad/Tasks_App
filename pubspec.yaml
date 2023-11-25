@@ -50,7 +50,7 @@ dependencies:
   percent_indicator: ^4.2.3
   date_picker_timeline: ^1.2.3
   calendar_date_picker2: ^0.5.3
-  modal_progress_hud_nsn: ^0.4.0
+  modal_progress_hud_nsn: ^0.2.1
   carousel_slider: ^4.2.1
   expandable_text: ^2.3.0
   top_snackbar_flutter: ^3.1.0
